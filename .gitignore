@@ -1,5 +1,7 @@
 .vscode
 
+*.bmp
+
 __pycache__
 
 env
